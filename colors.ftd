@@ -55,8 +55,8 @@ light: #F8618C
 dark: #F8618C
 
 -- ftd.color cta-primary-hover-:
-light: #68b595
-dark: #68b595
+light: #F9769B
+dark: #F9769B
 
 -- ftd.color cta-primary-pressed-:
 light: #5ca184
